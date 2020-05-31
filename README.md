@@ -1,9 +1,5 @@
 # Solar2d Companion for Visual Studio Code
 
-[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/m4adan.solar2d-companion.svg)](https://marketplace.visualstudio.com/items?itemName=m4adan.solar2d-companion)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/m4adan.solar2d-companion.svg)](https://marketplace.visualstudio.com/items?itemName=m4adan.solar2d-companion)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating/m4adan.solar2d-companion.svg)](https://marketplace.visualstudio.com/items?itemName=m4adan.solar2d-companion)
-
 This is an **unofficial** extention created by Madan, and is not affiliated in any way with Solar2d.
 This extension provide snippets and description/documents to most solar2d apis and plugins inside vs code.
 
